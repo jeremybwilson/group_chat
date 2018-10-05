@@ -1,0 +1,29 @@
+body{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(0, 255, 0, 0.575);
+}
+
+#sign{
+    border: 1px solid gray;
+    border-radius: 3px;
+    background-color: rgba(169, 255, 169);
+    padding: 30px;
+    width: 500px;
+    margin: 90px auto;
+}
+
+.gray{
+    background-color: rgba(128, 128, 128, 0.603);
+}
+
+.user{
+    display: inline-block;
+    border: 1px solid gray;
+    border-radius: 3px;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
